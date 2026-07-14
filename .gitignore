@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 临时抓取缓存
+trending.json
+weekly.json
+trending_result.txt
+weekly_result.txt
+weekly_trending.txt
+
+# IDE
+.vscode/
+.idea/
+
+# Reasonix internal
+.reasonix/
