@@ -1,0 +1,11 @@
+﻿周起始,排名,仓库,本周Star,总Star,语言,描述
+2026-07-12,1,iOfficeAI/OfficeCLI,7596,16468,C#,"OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
+2026-07-12,2,Zackriya-Solutions/meetily,5392,24460,Rust,"Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes"
+2026-07-12,3,stablyai/orca,5263,18845,TypeScript,Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+2026-07-12,4,diegosouzapw/OmniRoute,4345,17143,TypeScript,"Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA."
+2026-07-12,5,bradautomates/claude-video,4128,8347,Python,"Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude."
+2026-07-12,6,ogulcancelik/herdr,3449,16316,Rust,agent multiplexer that lives in your terminal.
+2026-07-12,7,Shubhamsaboo/awesome-llm-apps,2860,120325,Python,"100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+2026-07-12,8,pbakaus/impeccable,2450,46558,JavaScript,The design language that makes your AI harness better at design.
+2026-07-12,9,TencentCloud/CubeSandbox,2367,10118,Rust,"Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents."
+2026-07-12,10,openai/codex-plugin-cc,2265,28541,JavaScript,Use Codex from Claude Code to review code or delegate tasks.
