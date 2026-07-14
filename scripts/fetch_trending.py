@@ -227,6 +227,35 @@ def _parse_number(text):
     return int(re.sub(r'[^\d]', '', str(text)) or '0')
 
 
+# ── 翻译 ──────────────────────────────────────────────
+def translate_descriptions(entries):
+    """将描述从英文翻译为中文（MyMemory 免费 API，无需 Key）"""
+    print("[translate] 正在翻译描述...")
+    for i, e in enumerate(entries):
+        desc = e.get("description", "").strip()
+        if not desc:
+            continue
+        try:
+            resp = requests.get(
+                "https://api.mymemory.translated.net/get",
+                params={"q": desc, "langpair": "en|zh"},
+                timeout=10,
+            )
+            if resp.status_code == 200:
+                data = resp.json()
+                translated = data.get("responseData", {}).get("translatedText", "")
+                if translated and translated != desc:
+                    e["description"] = translated
+                    print(f"  [{i+1}/10] OK: {translated[:60]}...")
+                    time.sleep(0.3)  # 避免触发限流
+                    continue
+        except Exception as ex:
+            print(f"  [{i+1}/10] 翻译失败，保留英文: {ex}")
+        # 兜底：保留英文原文
+        print(f"  [{i+1}/10] 保留英文: {desc[:60]}...")
+    print("[translate] 完成")
+
+
 # ── 周计算 ────────────────────────────────────────────
 def get_current_week_range():
     """返回本周的起止日期（周日 ~ 周六）"""
@@ -322,6 +351,9 @@ def main():
     for e in entries:
         e["week_start"] = sunday
         e["week_end"] = saturday
+
+    # 翻译描述为中文
+    translate_descriptions(entries)
 
     # 保存到数据库
     saved = save_entries(conn, entries)
