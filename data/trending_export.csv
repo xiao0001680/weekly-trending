@@ -1,4 +1,14 @@
 ﻿周起始,排名,仓库,本周Star,总Star,语言,描述
+2026-07-19,1,OpenCut-app/OpenCut,13319,75454,TypeScript,开源CapCut替代方案
+2026-07-19,2,mattpocock/skills,11131,176647,Shell,真正工程师的技能。直接来自我的.agents目录。
+2026-07-19,3,Nutlope/hallmark,8834,12871,CSS,Claude Code、Cursor和Codex的防AI倾斜设计技能。
+2026-07-19,4,Graphify-Labs/graphify,8611,90999,Python,AI编码助理技能（ Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。将任何代码、SQL架构、R脚本、shell脚本、文档、论文、图像或视频文件夹转换为可查询的知识图。一个图形中的应用代码+数据库架构+基础设施。
+2026-07-19,5,Shubhamsaboo/awesome-llm-apps,6146,124027,Python,100多个AI Agent和RAG应用程序，您可以实际运行—克隆、自定义、发货。
+2026-07-19,6,HKUDS/Vibe-Trading,5635,24989,Python,“Vibe-Trading ：您的个人交易代理”
+2026-07-19,7,stablyai/orca,5520,21845,TypeScript,ORCA是ADE ，用于与一群并行代理商合作。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。
+2026-07-19,8,iOfficeAI/OfficeCLI,4284,19316,C#,OfficeCLI是第一个也是最好的Office套件，专为AI代理读取、编辑和自动化Word、Excel和PowerPoint文件而构建。免费、开源、单一二进制文件，无需安装Office。
+2026-07-19,9,openinterpreter/openinterpreter,2344,66680,Rust,Kimi K3等开放模型的编码代理
+2026-07-19,10,openai/codex,2268,99431,Rust,在您的终端中运行的轻量级编码代理
 2026-07-12,1,iOfficeAI/OfficeCLI,7596,16468,C#,"OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required."
 2026-07-12,2,Zackriya-Solutions/meetily,5392,24460,Rust,"Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes"
 2026-07-12,3,stablyai/orca,5263,18845,TypeScript,Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
