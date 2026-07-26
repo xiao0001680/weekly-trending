@@ -1,4 +1,14 @@
 ﻿周起始,排名,仓库,本周Star,总Star,语言,描述
+2026-07-26,1,bojieli/ai-agent-book,16579,19823,Python,《深入理解 AI Agent ：中文设计原理与工程实践》（简体李博杰 著）开源主仓库 ：全书正文、编译版 PDF 与按章配套代码
+2026-07-26,2,koala73/worldmonitor,12085,74184,TypeScript,实时全球智能仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪
+2026-07-26,3,mattpocock/skills,11790,188339,Shell,真正工程师的技能。直接来自我的.agents目录。
+2026-07-26,4,diegosouzapw/OmniRoute,11147,30084,TypeScript,永不停止编码。免费MIT AI网关：一个端点， 290多个提供商（ 90多个免费） ， 500多个型号— Kimi ， Claude ， GPT ， OpenAI ， Gemini ， GLM ， DeepSeek ， MiniMax。适用于Claude Code、Codex、Cursor、OpenCode、Cline和Copilot。配额感知自动回退， RTK +穴居人压缩可节省15-95%的代币、MCP/A2A、桌面/PWA。由500多位贡献者构建
+2026-07-26,5,stablyai/orca,7327,29060,TypeScript,ORCA是ADE ，用于与一群并行代理商合作。使用您自己的订阅运行任何编码代理。可在桌面、移动和VPS上使用。
+2026-07-26,6,tirth8205/code-review-graph,6423,26410,Python,MCP和CLI的本地优先代码智能图。构建代码库的持久映射，以便AI编码工具仅读取重要内容，并对审阅和大型重构工作流进行基准上下文缩减。
+2026-07-26,7,ruvnet/RuView,5313,86388,Rust,π RuView将商用WiFi信号转化为实时空间智能、生命体征监测和存在检测--所有这些都无需一个像素的视频。
+2026-07-26,8,earendil-works/pi,5167,77576,TypeScript,AI agent toolkit ：统一LLM API、agent loop、TUI、coding agent CLI
+2026-07-26,9,Nutlope/hallmark,4881,17735,CSS,Claude Code、Cursor和Codex的防AI倾斜设计技能。
+2026-07-26,10,rohitg00/ai-engineering-from-scratch,4518,43493,Python,学习它，构建它。为其他人运送。
 2026-07-19,1,OpenCut-app/OpenCut,13319,75454,TypeScript,开源CapCut替代方案
 2026-07-19,2,mattpocock/skills,11131,176647,Shell,真正工程师的技能。直接来自我的.agents目录。
 2026-07-19,3,Nutlope/hallmark,8834,12871,CSS,Claude Code、Cursor和Codex的防AI倾斜设计技能。
