@@ -1,4 +1,14 @@
 ﻿周起始,排名,仓库,本周Star,总Star,语言,描述
+2026-08-02,1,block/buzz,9003,20484,Rust,蜂巢思维沟通平台
+2026-08-02,2,diegosouzapw/OmniRoute,7259,37119,TypeScript,永不停止编码。免费MIT AI网关：一个端点， 290多个提供商（ 90多个免费） ， 500多个型号— Kimi ， Claude ， GPT ， OpenAI ， Gemini ， GLM ， DeepSeek ， MiniMax。适用于Claude Code、Codex、Cursor、OpenCode、Cline和Copilot。配额感知自动回退， RTK +穴居人压缩可节省15-95%的代币、MCP/A2A、桌面/PWA。由500多位贡献者构建
+2026-08-02,3,permissionlesstech/bitchat,5737,33973,Swift,蓝牙网状聊天， IRC共鸣
+2026-08-02,4,ayghri/i-have-adhd,5232,15277,Python,阻止您的编码代理埋葬答案的技能。ADHD友好的输出。
+2026-08-02,5,virgiliojr94/book-to-skill,5105,14871,Python,将任何技术书籍PDF转化为Claude Code技能—随时准备在您工作时进行学习、参考和使用。
+2026-08-02,6,alibaba/open-code-review,4708,17512,Go,开源和免费—在阿里巴巴的规模上经过测试。混合架构代码审核工具：确定性流水线+ LLM Agent、精确的行级注释、内置微调规则集（ NPE、线程安全、XSS、SQL注入）、OpenAI & Anthropic兼容。
+2026-08-02,7,citrolabs/ego-lite,4090,7402,JavaScript,人工智能代理运行浏览器自动化的最快浏览器，旨在与您的人工智能代理（如Codex或Claude Code ）共享您登录的浏览器状态，而不会打扰您。零成本，零配置。
+2026-08-02,8,1jehuang/jcode,3548,14970,Rust,RAM效率最高的线束
+2026-08-02,9,moeru-ai/airi,3335,46394,TypeScript,💖🧸 自我托管，你拥有的Grok Companion ，一个包含外府灵魂的容器，将它们带入我们的世界的网络生活，希望达到Neuro-sama的高度。能够实时语音聊天、Minecraft、Factorio播放。支持Web/macOS/Windows。
+2026-08-02,10,microsoft/AI-For-Beginners,3246,57348,Jupyter Notebook,12周， 24课，全民人工智能！
 2026-07-26,1,bojieli/ai-agent-book,16579,19823,Python,《深入理解 AI Agent ：中文设计原理与工程实践》（简体李博杰 著）开源主仓库 ：全书正文、编译版 PDF 与按章配套代码
 2026-07-26,2,koala73/worldmonitor,12085,74184,TypeScript,实时全球智能仪表板。在统一的态势感知界面中进行人工智能驱动的新闻聚合、地缘政治监控和基础设施跟踪
 2026-07-26,3,mattpocock/skills,11790,188339,Shell,真正工程师的技能。直接来自我的.agents目录。
