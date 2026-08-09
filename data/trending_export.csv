@@ -1,4 +1,14 @@
 ﻿周起始,排名,仓库,本周Star,总Star,语言,描述
+2026-08-09,1,zhaoxuya520/reverse-skill,9635,21406,PowerShell,逆向工程/授权渗透测试/安全研究技能路由器包AI驱动的路由+按需工具链引导+自我发展的知识库支持Claude Code、Kiro、Cursor、Cline和其他AI编码客户端逆向渗透//安全技能路由包- AI 自动路由 按需自举工具链 + + 自动进化经验库 | 支持 Claude Code/Kiro/Cursor/Cline 等代码 AI 客户端
+2026-08-09,2,TencentCloud/TencentDB-Agent-Memory,8046,18225,TypeScript,TencentDB Agent Memory是AI Agent的团队级内存中心—将对话、文档和代码转换为四个可重用的内存资产（ Chat Memory、Skill、LLM-Wiki、Code-Graph ） ，这些资产在代理和框架之间进行管理、共享和配备。
+2026-08-09,3,microsoft/AI-For-Beginners,7469,63617,Jupyter Notebook,12周， 24课，全民人工智能！
+2026-08-09,4,lyogavin/airllm,5711,30163,Jupyter Notebook,使用单个4GB GPU的AirLLM 70B推理
+2026-08-09,5,esengine/DeepSeek-Reasonix,4704,33165,Go,为您的终端提供DeepSeek原生AI编码代理。围绕前缀缓存稳定性而设计—保持运行。
+2026-08-09,6,virgiliojr94/book-to-skill,4071,18921,Python,将任何技术书籍PDF转化为Claude Code技能—随时准备在您工作时进行学习、参考和使用。
+2026-08-09,7,donnemartin/system-design-primer,2606,362481,Python,了解如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。
+2026-08-09,8,usekaneo/kaneo,2259,7752,TypeScript,你需要的一🎯切。没有什么你不需要的。开源项目管理适合您，而不是对您不利。
+2026-08-09,9,different-ai/openwork,1834,21602,TypeScript,Claude Cowork的开源替代品（由opencode提供支持）
+2026-08-09,10,Comfy-Org/ComfyUI,1778,124911,Python,最强大、模块化的扩散模型GUI、API和后端，具有图形/节点界面。
 2026-08-02,1,block/buzz,9003,20484,Rust,蜂巢思维沟通平台
 2026-08-02,2,diegosouzapw/OmniRoute,7259,37119,TypeScript,永不停止编码。免费MIT AI网关：一个端点， 290多个提供商（ 90多个免费） ， 500多个型号— Kimi ， Claude ， GPT ， OpenAI ， Gemini ， GLM ， DeepSeek ， MiniMax。适用于Claude Code、Codex、Cursor、OpenCode、Cline和Copilot。配额感知自动回退， RTK +穴居人压缩可节省15-95%的代币、MCP/A2A、桌面/PWA。由500多位贡献者构建
 2026-08-02,3,permissionlesstech/bitchat,5737,33973,Swift,蓝牙网状聊天， IRC共鸣
