@@ -1,4 +1,14 @@
 ﻿周起始,排名,仓库,本周Star,总Star,语言,描述
+2026-08-30,1,tt-a1i/archify,14875,31429,JavaScript,美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。
+2026-08-30,2,freestylefly/awesome-gpt-image-2,13141,25142,JavaScript,代码提示| GPT-Image2 工业级提示词引擎与模板库， 530 + 个案例逆向工程， 20 + 套工业级模板，并提炼出技能，持续更新中
+2026-08-30,3,openai/codex,7775,119859,Rust,在您的终端中运行的轻量级编码代理
+2026-08-30,4,omacom/omarchy,6475,34896,Shell,漂亮、现代且自以为是的Linux
+2026-08-30,5,MadsLorentzen/ai-job-search,5145,38144,Python,在您的机器上运行的作业搜索。基于Claude Code构建的人工智能求职框架：评估帖子、定制简历、撰写求职信、准备面试。分叉并拥有它。
+2026-08-30,6,Alishahryar1/free-claude-code,4942,51510,Python,从您的终端、应用程序、IDE或像OpenClaw这样的手机（支持语音+ ToS友好）免费使用Claude Code、Codex、Pi和OpenCode等（ 13亿+免费令牌）
+2026-08-30,7,AprilNEA/OpenLogi,4114,17671,Rust,⚡️用Rust编写的Logitech Options +的本地本地优先替代方案🦀—在HID + +上重新映射按钮、DPI和SmartShift。无帐户，无遥测。
+2026-08-30,8,K-Dense-AI/scientific-agent-skills,3642,38030,Python,将任何AI特工变成AI科学家。首屈一指的科学代理技能库，全球超过19万名科学家使用。165项随时可用的经验证的技能，以及100多个涵盖生物学、化学、医学和药物发现的科学数据库。与Cursor、Claude Code、Codex、Pi、Antigravity和开放Agent Skills标准兼容。
+2026-08-30,9,rohitg00/ai-engineering-from-scratch,3488,50976,Python,学习它，构建它。为其他人运送。
+2026-08-30,10,tashfeenahmed/freellmapi,2691,22253,TypeScript,每月74亿个代币。34个免费LLM提供商。635个免费模型端点。全部在一个/v1端点后面，加上任何与OpenAI兼容的自定义端点。智能路由、自动故障转移、加密密钥。仅限个人实验。
 2026-08-23,1,harry0703/MoneyPrinterTurbo,10953,114653,Python,利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。使用自动化AI工作流程从主题或关键字生成高清短视频。
 2026-08-23,2,public-apis/public-apis,9381,468649,Python,免费API的集合列表
 2026-08-23,3,cathrynlavery/diagram-design,7368,25483,HTML,Claude Code、Codex和Pi的38种编辑图类型。独立的HTML + SVG。没有阴影，没有美人鱼粪便。
