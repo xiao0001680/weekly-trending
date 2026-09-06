@@ -1,4 +1,14 @@
 ﻿周起始,排名,仓库,本周Star,总Star,语言,描述
+2026-09-06,1,tt-a1i/archify,19480,49521,JavaScript,美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。
+2026-09-06,2,THU-MAIC/OpenMAIC,10109,31973,TypeScript,开放式多座席互动课堂—只需点击一下，即可获得身临其境的多座席学习体验
+2026-09-06,3,debpalash/VoiceStudio,6761,19019,Python,VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。
+2026-09-06,4,bilawalsidhu/gods-eye-view,5926,18038,JavaScript,浏览器中的间谍卫星模拟器，但数据是真实的。在逼真的3D地球仪上实时开源空间智能。
+2026-09-06,5,K-Dense-AI/scientific-agent-skills,5491,42970,Python,将任何AI特工变成AI科学家。首屈一指的科学代理技能库，全球超过19万名科学家使用。165项随时可用的经验证的技能，以及100多个涵盖生物学、化学、医学和药物发现的科学数据库。与Cursor、Claude Code、Codex、Pi、Antigravity和开放Agent Skills标准兼容。
+2026-09-06,6,affaan-m/ECC,5445,250001,JavaScript,座席线束性能优化系统。Claude Code、Codex、Opencode、Cursor等的技能、本能、记忆、安全和研究优先开发。
+2026-09-06,7,jingyaogong/minimind,3649,58819,Python,在短短2小时内从头开始🧠培训64M参数LLM ！
+2026-09-06,8,tailscale/tailcat,3187,6385,Go,像netcat一样，但是在Tailscale的数据平面上，没有Tailscale的控制平面
+2026-09-06,9,google-research/timesfm,2968,31316,Python,TimesFM （时间序列基础模型）是由Google Research开发的用于时间序列预测的预训练时间序列基础模型。
+2026-09-06,10,every-app/open-seo,2755,17295,TypeScript,Semrush和Ahrefs的开源替代品
 2026-08-30,1,tt-a1i/archify,14875,31429,JavaScript,美观、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能--具有运动和清晰导出的自包含HTML。
 2026-08-30,2,freestylefly/awesome-gpt-image-2,13141,25142,JavaScript,代码提示| GPT-Image2 工业级提示词引擎与模板库， 530 + 个案例逆向工程， 20 + 套工业级模板，并提炼出技能，持续更新中
 2026-08-30,3,openai/codex,7775,119859,Rust,在您的终端中运行的轻量级编码代理
