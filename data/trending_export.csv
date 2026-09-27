@@ -1,4 +1,14 @@
 ﻿周起始,排名,仓库,本周Star,总Star,语言,描述
+2026-09-27,1,vectorize-io/hindsight,7282,32497,Python,后见之明：学习的客服代表记忆
+2026-09-27,2,stablyai/orca,6503,78995,TypeScript,ORCA是ADE ，用于与一群并行代理商合作。使用您自己的订阅运行任何编码代理。可在桌面、移动和远程运行时使用。
+2026-09-27,3,cloudflare/security-audit-skill,6474,22051,JavaScript,用于多阶段安全审核的编码代理技能，具有经过独立验证的机器可读结果
+2026-09-27,4,affaan-m/ECC,5522,267992,JavaScript,座席线束性能优化系统。Claude Code、Codex、Opencode、Cursor等的技能、本能、记忆、安全和研究优先开发。
+2026-09-27,5,paperclipai/paperclip,5376,87598,TypeScript,每个人都使用的开源应用程序来管理工作中的代理
+2026-09-27,6,dream-num/univer,4660,19449,TypeScript,适用于AI代理的Office线束—电子表格、文档、幻灯片、画布、关系表和PDF在一个运行时中。
+2026-09-27,7,alibaba/open-code-review,4310,41649,Go,安全、快速、高效，经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent、精确的行级注释、内置多语言规则集（ NPE、线程安全、XSS、SQL注入）、OpenAI & Anthropic兼容。
+2026-09-27,8,Tencent/WeKnora,3015,30370,Go,开源LLM知识平台：将原始文档转化为可查询的RAG、自主推理代理和自我维护的Wiki。
+2026-09-27,9,anthropics/financial-services,2633,37719,Python,
+2026-09-27,10,addyosmani/agent-skills,2510,99306,JavaScript,AI编码代理的生产级工程技能。
 2026-09-20,1,alibaba/open-code-review,15028,37706,Go,安全、快速、高效，经受住阿里巴巴规模的考验。混合架构代码审核工具：确定性流水线+ LLM Agent、精确的行级注释、内置多语言规则集（ NPE、线程安全、XSS、SQL注入）、OpenAI & Anthropic兼容。
 2026-09-20,2,bilawalsidhu/gods-eye-view,10207,38696,JavaScript,浏览器中的间谍卫星模拟器，但数据是真实的。在逼真的3D地球仪上实时开源空间智能。
 2026-09-20,3,affaan-m/ECC,6265,263013,JavaScript,座席线束性能优化系统。Claude Code、Codex、Opencode、Cursor等的技能、本能、记忆、安全和研究优先开发。
