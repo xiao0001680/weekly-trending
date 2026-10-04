@@ -1,4 +1,14 @@
 ﻿周起始,排名,仓库,本周Star,总Star,语言,描述
+2026-10-04,1,debpalash/VoiceStudio,16775,52679,Python,VoiceStudio是开源、完全本地的ElevenLabs替代品--语音克隆、语音设计、视频配音、听写、转录和有声读物创作，支持646种语言。
+2026-10-04,2,vectorize-io/hindsight,14507,45162,Python,后见之明：学习的客服代表记忆
+2026-10-04,3,paperclipai/paperclip,10722,96793,TypeScript,每个人都使用的开源应用程序来管理工作中的代理
+2026-10-04,4,rohitg00/ai-engineering-from-scratch,5059,63240,Python,学习它，构建它。为其他人运送。
+2026-10-04,5,Panniantong/Agent-Reach,3952,89944,Python,让您的人工智能代理看到整个互联网。阅读和搜索Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu —一个CLI ，无API费用。
+2026-10-04,6,pbakaus/impeccable,3311,75429,JavaScript,让您的人工智能更好地进行设计的设计语言。
+2026-10-04,7,heygen-com/hyperframes,3011,56351,TypeScript,编写HTML。渲染视频。专为客服代表打造。
+2026-10-04,8,harry0703/MoneyPrinterTurbo,2324,128285,Python,利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。使用自动化AI工作流程从主题或关键字生成高清短视频。
+2026-10-04,9,pablostanley/yoinks,1917,3952,TypeScript,yoink您终端上的任何视频。没有阴暗的广告。
+2026-10-04,10,boykopovar/AnyPS5,1820,3290,C++,用于自动将PS5可执行文件移植到Linux和Windows的工具
 2026-09-27,1,vectorize-io/hindsight,7282,32497,Python,后见之明：学习的客服代表记忆
 2026-09-27,2,stablyai/orca,6503,78995,TypeScript,ORCA是ADE ，用于与一群并行代理商合作。使用您自己的订阅运行任何编码代理。可在桌面、移动和远程运行时使用。
 2026-09-27,3,cloudflare/security-audit-skill,6474,22051,JavaScript,用于多阶段安全审核的编码代理技能，具有经过独立验证的机器可读结果
